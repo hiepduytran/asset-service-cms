@@ -1,0 +1,22 @@
+{
+    "title": "Sự cố",
+    "table": {
+        "code": "Mã sự cố",
+        "name": "Tên sự cố",
+        "categoryParam": "Danh mục sự cố",
+        "isActive": "Trạng thái"
+    },
+    "label": {
+        "code": "Mã sự cố",
+        "name": "Tên sự cố",
+        "categoryParam": "Danh mục sự cố"
+
+    }, 
+    "placeholder": {
+        "code": "Nhập mã sự cố",
+        "name": "Nhập tên sự cố",
+        "categoryParam": "Chọn danh mục sự cố"
+
+
+    }
+}

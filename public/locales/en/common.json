@@ -1,0 +1,166 @@
+{
+  "login": "Login",
+  "logout": "Logout",
+  "rememberPassword": "Remember Password",
+  "forgetPassword": "Forgot Password?",
+  "status": "Status",
+  "account_info": "Account info",
+  "detail": "Detail",
+  "error500": "Oops, something went wrong!",
+  "message": {
+    "success": "Success",
+    "fail": "Fail",
+    "error": "An error occurred"
+  },
+  "all": "Tất cả",
+  "label": {
+    "mail": "Mail",
+    "update": "Update",
+    "register": "Register",
+    "pending-approval": "Pending Approval",
+    "resolved": "Resolved",
+    "rejected": "Rejected",
+    "channel-state": "Channel State",
+    "channel-type": "Channel Type",
+    "channel-manager-type": "Channel Manager Type",
+    "channel-manager-name": "Channel Manager Name",
+    "channel-name-id-phone": "Channel Name/ID/Phone Number",
+    "include-sub-channel": "Include Sub-Channel",
+    "id-type": "ID Type",
+    "id-number": "ID number",
+    "tax-code": "Tax code",
+    "business-license": "Bussiness license",
+    "contract-no": "Contract no",
+    "confirm-register-internal-agent-channel": "Confirmation: Register {{channelTier}} Channel for {{name}}, phone number: {{phone}}?",
+    "confirm-register-internal-agent-channel-not-file": "Confirmation: You still not provided Agentcy Contract yet. Continue to register {{channelTier}} for {{name}}, phone number: {{phone}}?",
+    "reason": "Reason",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "phoneNumber": "Phone number"
+  },
+  "form": {
+    "search": {
+      "label": "Search",
+      "placeholder": "Input search"
+    },
+    "autocomplete": {
+      "placeholder": "Select {{label}}",
+      "no_options": "No options"
+    },
+    "input": {
+      "placeholder": "Enter {{label}}"
+    },
+    "isActive": {
+      "label": "Active",
+      "placeholder": "Select active"
+    },
+    "mail": {
+      "label": "Email",
+      "placeholder": "Enter your email"
+    },
+    "password": {
+      "label": "Password",
+      "placeholder": "Enter your password"
+    },
+    "forgotPassword": {
+      "label": "Forgot Password?",
+      "text": "Please enter your email or phone number to recover your password.",
+      "recovery": "Recover Password"
+    },
+    "changePassword": {
+      "label": "Enter OTP code",
+      "text": "The OTP code has been sent to your email/phone number. Please enter it to recover your password.",
+      "recovery": "Recover Password",
+      "input": {
+        "new": "New Password",
+        "re_enter": "Confirm New Password"
+      },
+      "success": "Password changed successfully"
+    }
+  },
+  "btn": {
+    "save_change": "Save changes",
+    "add": "Add",
+    "viewDetail": "View detail",
+    "edit": "Edit",
+    "cancel": "Cancel",
+    "saveConfig": "Save configuration",
+    "back": "Back",
+    "search": "Search",
+    "export": "Export",
+    "import": "Import",
+    "agree": "Agree",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "view": "View"
+  },
+  "option": {
+    "ALL": "ALL"
+  },
+  "table": {
+    "no_data": "No data found!",
+    "paginationNumber": "Number of rows displayed per page",
+    "jumpToPage": "Jump to page",
+    "no": "No",
+    "no_exist_page": "Page does not exist"
+  },
+  "menu": {
+    "uaa": {
+      "system": "System",
+      "api": "API",
+      "service": "Service",
+      "feature": "Feature",
+      "tag": "Tag",
+      "account": "Account",
+      "tenant": "Tenant",
+      "client": {
+        "external": "External Client",
+        "internal": "Internal Client"
+      },
+      "scope": {
+        "external": "External Scope",
+        "internal": "Internal Scope"
+      },
+      "database": "Database",
+      "role": {
+        "internal": "Internal Role",
+        "tenant": "Tenant Role"
+      }
+    }
+  },
+  "validation": {
+    "enter": "Please enter {{msg}}",
+    "password_required": "Password is required",
+    "password_min": "Password must be at least 6 characters",
+    "password_false": "Incorrect password",
+    "email": "Email is not in the correct format",
+    "email_unique": "Email already exists",
+    "mobile_required": "Mobile phone number is required",
+    "mobile": "Mobile phone number is not in the correct format",
+    "required": "This field is required",
+    "username": "Username must be 6-15 characters and cannot contain special characters",
+    "confirm": "Passwords do not match",
+    "min": "Minimum of {{number}} characters",
+    "max": "Maximum of {{number}} characters",
+    "alias": "You can only enter letters without accents, numbers, and the characters '-' and '_'",
+    "code": "You can only enter numbers, letters without accents, no spaces, and the characters '-', '_', and '.'",
+    "password": "Password must be at least 8 characters long, contain at least one uppercase letter, one lowercase letter, one number, and one special character",
+    "phone": "Phone number is in the wrong format",
+    "not_type": "Wrong format",
+    "invalid": "Invalid",
+    "not_number": "You can only enter numbers",
+    "not_contract_number": "You can only enter letters, numbers, and '-', '/' characters",
+    "url": "URL is not in the correct format",
+    "confirm_password": "Passwords do not match",
+    "number_min": "Cannot be less than {{min}}",
+    "number_max": "Cannot be greater than {{max}}",
+    "cannotLessThanOrEqual": "Cannot be less than or equal to {{min}}",
+    "cannotGreaterThanOrEqual": "Cannot be greater than or equal to {{max}}",
+    "more_than": "Value must be greater than {{more}}",
+    "name": "Name must not contain special characters",
+    "integer": "Only positive integers allowed"
+  },
+  "footer": {
+    "label": "Copyright 2010 - 2024. Bản quyền site thuộc về"
+  }
+}

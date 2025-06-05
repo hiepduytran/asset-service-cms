@@ -1,0 +1,14 @@
+{
+    "title": "Lịch sử sử dụng tài sản",
+    "label": {
+        "org": "Tổ chức",
+        "department": "Phòng ban quản lý",
+        "employee": "Nhân viên quản lý"
+
+    },
+    "placeholder": {
+        "org": "Chọn Tổ chức",
+        "department": "Chọn phòng ban quản lý",
+        "employee": "Chọn nhân viên quản lý"
+    }
+}

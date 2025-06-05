@@ -1,0 +1,65 @@
+{
+    "title": "Danh sách ghi nhận sự cố",
+    "btn": {
+        "addAsset": "Thêm tài sản"
+    },
+    "table": {
+        "assetIdentity": "Mã định danh",
+        "assetCode": "Mã tài sản",
+        "assetName": "Tên tài sản",
+        "recordConditionType": "Ghi nhận tình trạng",
+        "handlingPlanType": "Phương án xử lý",
+        "updateDate": "Ngày ghi nhận",
+        "source": "Nguồn",
+        "source_2": "Nguồn ghi nhận",
+        "code": "Mã phiếu ghi nhận",
+        "assetStatus": "Tình trạng tài sản",
+        "status": "Trạng thái",
+        "status_2": "Tình trạng",
+        "code_2": "Mã ghi nhận",
+        "allocationChooseType": "Đối tượng",
+        "org": "Tổ chức",
+        "department": "Bộ phận",
+        "employee": "Nhân viên",
+        "quantity": "Số lượng"
+
+    },
+    "placeholder": {
+        "identifierCode": "Chọn mã định danh",
+        "recordConditionType": "Chọn ghi nhận trạng thái",
+        "handlingPlanType": "Chọn phương án xử lý",
+        "assetCode":"Chọn mã tài sản"
+
+    },
+    "label": {
+        "reasonRecall":"Lý do",
+        "feature":"Tính năng",
+        "reference":"Tham chiếu",
+        "source":"Nguồn",
+        "date":"Ngày cập nhật",
+        "assetCode":"Mã tài sản",
+        "recordConditionType":"Tình trạng",
+        "code_2": "Mã ghi nhận",
+       "updateDate": "Ngày ghi nhận",
+        "recorder":"Người ghi nhận"
+
+
+    },
+    "text": {
+        "title_dialog": "Thông báo",
+        "ALL": "Tất cả",
+        "MANUAL": "Manual",
+        "RECOVER": "Thu hồi",
+        "TRANSFER": "Bàn giao",
+        "NORMAL": "Bình thường",
+        "BROKEN": "Hỏng",
+        "around": "Chiều",
+        "IDENTITY": "Mã định danh",
+        "TIME": "Thời gian",
+        "detailAssetError": "Chi tiết tài sản lỗi sự cố"
+
+
+
+    }
+    
+}

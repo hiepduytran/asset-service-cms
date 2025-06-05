@@ -1,0 +1,26 @@
+{
+    "title": "Quản lý mức độ nghiêm trọng",
+    "table": {
+        "list": {
+            "code": "Mã mức độ",
+            "name": "Tên mức độ nghiêm trọng",
+            "isActive": "Trạng thái"
+
+        }
+    },
+    "placeholder": {
+        "code": "Mã mức độ nghiêm trọng",
+        "name": "Tên mức độ nghiêm trọng"
+    },
+    "label": {
+        "code": "Mã mức độ nghiêm trọng",
+        "name": "Tên mức độ nghiêm trọng",
+        "note": "Ghi chú",
+        "isActive": "Trạng thái"
+    },
+    "text": {
+        "errorEdit": "Bản ghi này đang được sử dụng không thể chỉnh sửa !",
+        "errorRemove": "Bản ghi này đang được sử dụng không thể xóa !"
+
+    }
+}

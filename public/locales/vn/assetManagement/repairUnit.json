@@ -1,0 +1,76 @@
+{
+    "createTitle": {
+        "another": "Thêm mới đối tác khác"
+    },
+    "createPartner": "Thêm mới đối tác",
+    "confirmDelete": "Bạn có muốn xóa dữ liệu này",
+    "placeholder": {
+        "phoneNumber": "Nhập số điện thoại",
+        "email": "Nhập địa chỉ email",
+        "cardId": "Nhập số giấy tờ định danh"
+    },
+    "title": {
+        "ANOTHER": "Đối tác khác",
+        "MERCHANT": "Merchant",
+        "OEM": "Đối tác OEM",
+        "PAYMENT": "Đối tác thanh toán",
+        "B2C": "Khách hàng B2C",
+        "SHIPPING": "Đối tác vận chuyển",
+        "VENDOR": "Nhà cung cấp",
+        "B2B": "Khách hàng B2B",
+        "repairUnit": "Đơn vị sửa chữa",
+        "assetDetailsInCharge": "Chi tiết tài sản phụ trách"
+    },
+    "code": "Mã",
+    "name": "Tên",
+    "organization": "Tổ chức",
+    "individual": "Cá nhân",
+    "type": "Kiểu",
+    "email": "Email",
+    "phoneNumber": "Số điện thoại",
+    "region": "Vùng",
+    "city": "Tỉnh/Thành phố",
+    "address": "Địa chỉ",
+    "group": "Nhóm",
+    "joinDate": "Ngày gia nhập",
+    "birth": "Ngày sinh",
+    "cardId": "Giấy tờ định danh",
+    "country": "Quốc gia",
+    "district": "Quận/Huyện",
+    "ward": "Phường/Xã",
+    "contact": "Địa chỉ và liên hệ",
+    "bankInfo": "Thông tin ngân hàng",
+    "bank": "Ngân hàng",
+    "accountNumber": "Số tài khoản",
+    "accountName": "Tên chủ tài khoản",
+    "note": "Ghi chú",
+    "name_of": "Tên", 
+    "position": "Chức vụ",
+    "sex": "Giới tính",
+    "male": "Nam",
+    "woman": "Nữ",
+    "other": "Khác",
+    "nickName": "Danh xưng",
+    "shareMode": "Chế độ chia sẻ",
+    "org": "Chi nhánh",
+    "contactPersonalInfo": "Thông tin người liên hệ",
+    "anotherAddress": "Địa chỉ khác",
+    "identificationInformation": "Thông tin định danh",
+    "mainAddressInformation": "Thông tin địa chỉ chính",
+    "message": {
+        "message_1": "Xem thông tin của đối tác",
+        "message_2": "Đối tác đã tồn tại",
+        "message_3": "Đối tác đã có dữ liệu trên hệ thống"
+    },
+    "text": {
+        "text_1": "Chưa có file nào được chọn",
+        "text_2": "Upload danh mục sản phẩm",
+        "text_3": "Chọn file"
+    },
+    "table": {
+        "unitCode": "Mã đơn vị",
+        "unitName": "Tên đơn vị",
+        "asset": "Tài sản",
+        "assetName": "Tên tài sản"
+    }
+}

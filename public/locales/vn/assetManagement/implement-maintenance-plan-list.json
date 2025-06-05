@@ -1,0 +1,117 @@
+{
+    "title": {
+        "maintenance": "Bảo dưỡng",
+        "maintenance_plan": "Bảo dưỡng theo kế hoạch",
+        "implement_maintenance_plan": "Thực hiện kế hoạch bảo dưỡng"
+
+        
+    },
+    "table": {
+        "code": "Mã kế hoạch",
+        "planType": "Loại kế hoạch",
+        "totalAssets": "Tổng tài sản",
+        "done": "Đã thực hiện",
+        "pending": "Chưa thực hiện",
+        "inProcess": "Đang thực hiện",
+        "startDate": "Thời gian bắt đầu",
+        "expectedDate": "Ngày hoàn thành dự kiến",
+        "actualDate": "Thực tế",
+        "status": "Trạng thái",
+
+        "asset_name": "Phụ tùng",
+        "uom_name": "Thuộc tính",
+        "quantity": "Số lượng",
+        "problem": "Vấn đề",
+        "chooseType": "Lựa chọn",
+        "product_name_list": "Phụ tùng",
+        "product_name": "Công cụ bảo dưỡng",
+        "maintenanceEndDate": "Ngày bảo dưỡng cuối",
+        "content": "Nội dung công việc",
+        "implementer": "Người thực hiện",
+        "supportPerson": "Người hỗ trợ",
+        "auditStaffFirst": "Người kiểm tra 1",
+        "auditStaffSecond": "Người kiểm tra 2",
+        "numberResources": "Số nhân lực",
+        "startDate_2": "Thời gian bắt đầu",
+        "endDate_2":"Thời gian kết thúc dự kiến",
+        "actualEndDate":"Thời gian kết thúc thực tế",
+        "actualQuantityDate": "Số ngày",
+        "actualTotalPersonnel": "Tổng nhân sự/ngày",
+        "note": "Ghi chú",
+
+        "uom_name_2":"Đơn vị",
+        "receivedQuantity":"Đã nhận",
+        "usedQuantity":"Đã sử dụng",
+        "remaining":"Còn lại",
+
+        "name_work": "Công việc",
+        "isCheck":"Báo cáo kết quả"
+
+    },
+    "tableChild": {
+        "dic": "DIC",
+        "name": "Tài sản",
+        "department": "Phòng ban",
+        "planType": "Loại bảo dưỡng",
+        "startDate": "Ngày thực hiện dự kiến",
+        "actualEndDate": "Thực tế",
+        "check_status": "Trạng thái"
+    },
+    "label": {
+        "code":"Mã kế hoạch",
+        "name":"Tên kế hoạch",
+        "planType": "Loại kế hoach",
+        "timeOccurred":"Thời gian xảy ra sự cố",
+        "startDate":"Ngày bắt đầu thực hiện",
+        "doneDate":"Ngày hoàn thành",
+        "reason":"Nguyên nhân dự đoán",
+        "describeStatus":"Mô tả hiện trạng",
+        "asset_code":"Mã định danh",
+        "asset_name":"Tên tài sản",
+        "department_code":"Phòng ban",
+        "assessmentType":"Đánh giá tình trạng",
+        "name_work": "Công việc",
+        "product": "Phụ tùng"
+
+    },
+    "placeholder": {
+        "actualQuantityDate": "Nhập số ngày",
+        "actualTotalPersonnel": "Nhập tổng nhân sự/ngày",
+        "note": "Nhập ghi chú",
+        "usedQuantity":"Nhập đã sử dụng",
+        "product": "Chọn phụ tùng",
+        "name_work":"Nhập công việc"
+
+    },
+    "btn": {
+        "next_step_2": "Chuyển sang bước 2",
+        "cancel": "Hủy"
+    },
+    "text": {
+        "detail_maintenance": "Chi tiết yêu cầu phụ tùng bảo dưỡng",
+        "info_plan": "Thông tin kế hoạch",
+        "record_implementation":"Ghi nhận thực hiện",
+        "list_accessory": "Danh sách phụ tùng",
+        "list_assign_plan":"Danh sách phân công kế hoạch",
+        "list_accessory_maintenance": "Tổng hợp công cụ bảo dưỡng",
+        "accessory_consumable":"Công cụ bảo dưỡng tiêu hao",
+        "maintenance_replacement": "Công cụ bảo dưỡng thay thế",
+        "INTERNAL_REPAIR":"Sửa chữa nội bộ",
+        "REPLACE":"Thay thế",
+        "OUTSOURCED_REPAIR":"Thuê ngoài",
+        "spare_parts_generation":"Phát sinh phụ tùng",
+        "add_additional_work":"Thêm công việc phát sinh",
+        "add_accessory": "THÊM PHỤ TÙNG",
+        "NORMAL": "Hoạt động ổn định",
+        "NOT_NORMAL": "Hoạt động không ổn định",
+        "MINOR": "Có lỗi nhỏ",
+        "DANGEROUS": "Có lỗi nghiêm trọng",
+        "ALL":"Tất cả",
+        "FINISH": "Hoàn thành",
+        "PENDING": "Chưa thực hiện",
+        "WEEK": "Tuần",
+        "WEEKLY_INCIDENT": "Phát sinh tuần",
+        "YEAR": "Năm",
+        "EMERGENCY_TROUBLESHOOTING": "Khắc phục sự cố đột xuất"
+    }
+}

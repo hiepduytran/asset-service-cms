@@ -1,0 +1,47 @@
+{
+    "title": "Khai báo phụ tùng",
+    "detailTitle": "Chi tiết phụ tùng",
+    "info": "Thông tin phụ tùng",
+    "label": {
+        "desiredAllocationDate": "Ngày cấp phát",
+        "dispenser": "Người cấp phát",
+        "department": "Cấp phát cho phòng ban",
+        "productWorkshop": "Phân xưởng sản xuất",
+        "productArea": "Khu vực sản xuất",
+        "stage": "Công đoạn",
+        "reason": "Ghi chú"
+    },
+    "placeholder": {
+        "department": "Chọn phòng ban",
+        "assetCode": "Chọn mã tài sản",
+        "manager": "Chọn người phụ trách",
+        "sparePartCode": "Chọn mã phụ tùng",
+        "quantity": "Nhập số lượng"
+    },
+    "table": {
+        "allocationCode": "Mã cấp phát",
+        "source": "Nguồn",
+        "department": "Phòng ban",
+        "quantity": "Số lượng",
+        "statusOfRequest": "Trạng thái",
+        "assetCode": "Mã tài sản (SKU)",
+        "assetName": "Tên tài sản",
+        "manager": "Người phụ trách",
+        "requestQuantity": "Số lượng yêu cầu",
+        "allocationQuantity": "Số lượng cấp phát",
+        "assetQuantity": "Số lượng tài sản",
+        "accessory": "Phụ tùng",
+        "sparePartCode": "Mã phụ tùng",
+        "sparePartName": "Tên phụ tùng",
+        "uom": "Đơn vị tính",
+        "assetImage": "Ảnh tài sản"
+    },
+    "button": {
+        "allocate": "Cấp phát",
+        "addAccessory": "Thêm phụ tùng"
+    },
+    "navigation": {
+        "maintenance": "Bảo dưỡng",
+        "config": "Cấu hình"
+    }
+}

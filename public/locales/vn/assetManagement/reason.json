@@ -1,0 +1,10 @@
+{
+    "title": "Lý do",
+    "bondage": "Ràng buộc tới hệ thống khác",
+    "table": {
+        "code": "Mã lý do",
+        "name": "Tên lý do",
+        "system": "Hệ thống",
+        "features": "Tính năng"
+    }
+}

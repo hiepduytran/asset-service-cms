@@ -1,0 +1,9 @@
+{
+    "titleList" : "Problem",
+    "table" : {
+        "code" : "Code",
+        "name" : "Name",
+        "categoryParam" : "Category Problem",
+        "isActive" : "Active"
+    }
+}

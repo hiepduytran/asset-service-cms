@@ -1,0 +1,13 @@
+{
+    "titleList" : "Method Declaration",
+    "table" : {
+        "codeMethod" : "Mã phương pháp",
+        "nameMethod" : "Tên phương pháp",
+        "standardGroup": "Nhóm tiêu chuẩn",
+        "tool": "Dụng cụ",
+        "createdAt" : "Ngày tạo",
+        "createdBy" : "Người tạo",
+        "status": "Trạng thái",
+        "isActive" : "Active"
+    }
+}

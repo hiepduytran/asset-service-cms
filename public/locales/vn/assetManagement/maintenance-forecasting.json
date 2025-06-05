@@ -1,0 +1,33 @@
+{
+    "title": {
+        "maintenance": "Bảo dưỡng",
+        "forecasting": "Dự báo",
+        "maintenance_forecasting": "Dự báo tài sản bảo dưỡng"
+    },
+    "label": {
+        "department": "Phòng ban",
+        "startDate": "Ngày bắt đầu",
+        "endDate": "Ngày kết thúc"
+    },
+    "table": {
+        "asset": "Tài sản",
+        "productCode": "Mã định danh",
+        "department": "Phòng ban",
+        "maintenanceDate": "Ngày bảo trì",
+        "accessory": "Phụ tùng",
+        "status": "Tình trạng"
+    },
+    "accessoryPeriodDetail": {
+        "maintenanceDate": "Ngày bảo trì",
+        "accessory": "Phụ tùng",
+        "currentFrequency": "Tần suất hiện tại"
+    },
+    "text": {
+        "supplier_recommend": "THEO ĐỀ XUẤT NHÀ CUNG CẤP",
+        "policy_work": "Chính sách làm việc",
+        "config_role": "Cấu hình vai trò"
+    },
+    "btn": {
+        "plan": "Lập kế hoạch"
+    }
+}

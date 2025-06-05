@@ -1,0 +1,48 @@
+{
+    "title": {
+        "maintenance": "Bảo dưỡng",
+        "config": "Cấu hình",
+        "maintenance_accessory": "Khai báo công cụ bảo dưỡng"
+    },
+    "label": {
+        "assetCode": "Mã tài sản (SKU)",
+        "assetName": "Tên tài sản",
+        "assetImage": "Ảnh tài sản",
+        "accessory": "Phụ tùng",
+        "maintenanceAccessoryType": "Loại công cụ bảo dưỡng",
+        "maintenanceAccessory": "Công cụ bảo dưỡng",
+        "quantity": "Số lượng"
+    },
+    "placeholder": {
+        "asset": "Chọn tài sản",
+        "category": "Chọn loại phụ tùng",
+        "product": "Chọn công cụ bảo dưỡng",
+        "quantity": "Nhập số lượng yêu cầu"
+
+    },
+    "table": {
+        "assetCode": "Mã tài sản (SKU)",
+        "assetName": "Tên tài sản",
+        "accessory": "Phụ tùng",
+        "accessoryDetail": "Chi tiết phụ tùng"
+    },
+    "accessoryTableParamerter": {
+        "accessoryCode": "Mã phụ tùng",
+        "accessory": "Phụ tùng",
+        "maintenanceAccessory": "Công cụ bảo dưỡng"
+    },
+    "maintenanceAccessoryTableParamerter": {
+        "maintenanceAccessory": "Công cụ bảo dưỡng",
+        "quantity": "Số lượng",
+        "unit": "Đơn vị"
+    },
+    "text": {
+        "no_data": "Không tìm thấy dữ liệu nào!",
+        "detail_accessory": "Chi tiết phụ tùng",
+        "detail_maintenance_accessory": "Chi tiết phụ tùng",    
+        "edit": "Chỉnh sửa",
+        "view": "Chi tiét",
+        "add_accessory": "Thêm công cụ bảo dưỡng"
+
+    }
+}

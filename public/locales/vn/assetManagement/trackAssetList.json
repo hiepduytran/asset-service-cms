@@ -1,0 +1,35 @@
+{
+    "department": "Bộ phận",
+    "staff": "Nhân viên",
+    "detailTitle": "Chi tiết lịch sử cấp phát",
+    "allocationIdentifierDetails": "Chi tiết mã định danh cấp phát",
+    "allocatedAsset": "Tài sản đang cấp phát",
+    "totalAllocatedAssets": "Tổng tài sản cấp phát",
+    "allocatingToOrganization": "Đang cấp phát cho tổ chức",
+    "allocatingToDepartment": "Đang cấp phát cho bộ phận",
+    "allocatingToStaff": "Đang cấp phát cho nhân viên",
+    "includingQuantityNonReclaimableAssets": "Trong đó có {{quantity}} tài sản (không thu hồi)",
+    "table": {
+        "assetCode": "Mã tài sản",
+        "assetName": "Tên tài sản",
+        "assetImage": "Ảnh tài sản",
+        "assetCategory": "Danh mục tài sản",
+        "assetQuantity": "Số lượng tài sản",
+        "allocateDate": "Ngày cấp phát",
+        "allocateCode": "Mã cấp phát",
+        "source": "Nguồn",
+        "allocateQuantity": "Số lượng cấp phát",
+        "allocateSource": "Nguồn cấp phát",
+        "identifierCode": "Mã định danh",
+        "responsibleStaff": "Nhân viên phụ trách",
+        "status": "Tình trạng",
+        "referenceCode": "Mã tham chiếu",
+        "allocationTarget": "Đối tượng cấp phát"
+    },
+    "label": {
+        
+    },
+    "placeholder": {
+       
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "title" : "Danh mục sự cố",
+    "table" : {
+        "code" : "Mã danh mục sự cố",
+        "name" : "Tên danh mục sự cố",
+        "isActive" : "Trạng thái"
+    },
+    "label": {
+        "code": "Mã danh mục sự cố",
+        "name": "Tên danh mục sự cố"
+    }, 
+    "placeholder": {
+        "code": "Nhập mã danh mục sự cố",
+        "name": "Nhập danh mục tên sự cố"
+    }
+}

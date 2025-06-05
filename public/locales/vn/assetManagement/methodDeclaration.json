@@ -1,0 +1,40 @@
+{
+    
+    "title": {
+        "maintenance": "Bảo dưỡng",
+        "config": "Cấu hình",
+        "method_declaration": "Khai báo phương pháp"
+    },
+    "label": {
+        "code": "Mã phương pháp",
+        "name": "Tên phương pháp",
+        "product": "Mã phương pháp"
+
+    },
+    "placeholder": {
+        "groupStandard": "Chọn nhóm tiêu chuẩn", 
+        "status": "Chọn trạng thái",
+        "code": "Nhập mã phương pháp",
+        "name": "Nhập tên phương pháp",
+        "product": "Chọn dụng cụ"
+
+          
+    
+    },
+    "text": {
+        "view": "Chi tiết",
+        "edit": "Chỉnh sửa",
+        "add": "Thêm mới"
+    },
+    "titleList" : "Method Declaration",
+    "table" : {
+        "codeMethod" : "Mã phương pháp",
+        "nameMethod" : "Tên phương pháp",
+        "standardGroup": "Nhóm tiêu chuẩn",
+        "tool": "Dụng cụ",
+        "createdAt" : "Ngày tạo",
+        "createdBy" : "Người tạo",
+        "status": "Trạng thái",
+        "isActive" : "Active"
+    }
+}

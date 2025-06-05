@@ -1,0 +1,139 @@
+{
+  "name": "Tên",
+  "login": "Đăng nhập",
+  "rememberPassword": "Ghi nhớ mật khẩu",
+  "forgetPassword": "Quên mật khẩu?",
+  "text": "Text demo",
+  "status": "Trạng thái",
+  "action": "Hành động",
+  "account_info": "Thông tin tài khoản",
+  "detail": "Chi tiết",
+  "logout": "Đăng xuất",
+  "message": {
+    "success": "Thành công",
+    "fail": "Thất bại",
+    "error": "Có lỗi xảy ra"
+  },
+  "delete_dialog": "Bạn có chắc chắn muốn xoá bản ghi này không?",
+  "all": "Tất cả",
+  "form": {
+    "search": {
+      "label": "Tìm kiếm",
+      "placeholder": "Tìm kiếm theo tên và mã"
+    },
+    "autocomplete": {
+      "placeholder": "Chọn {{label}}",
+      "no_options": "Không có lựa chọn"
+    },
+    "input": {
+      "placeholder": "Nhập {{label}}"
+    },
+    "isActive": {
+      "label": "Trạng thái",
+      "placeholder": "Chọn trạng thái"
+    },
+    "mail": {
+      "label": "Email",
+      "placeholder": "Nhập email của bạn"
+    },
+    "password": {
+      "label": "Password",
+      "placeholder": "Nhập mật khẩu của bạn"
+    }
+  },
+  "btn": {
+    "reset": "Reset",
+    "save": "Lưu",
+    "save_change": "Lưu thay đổi",
+    "add": "Thêm mới",
+    "viewDetail": "Xem chi tiết",
+    "edit": "Chỉnh sửa",
+    "cancel": "Hủy bỏ",
+    "saveConfig": "Lưu cấu hình",
+    "back": "Trở lại",
+    "agree": "Đồng ý",
+    "delete": "Xóa",
+    "confirm": "Xác nhận",
+    "view": "Xem",
+    "search": "Tìm kiếm",
+    "export": "Export",
+    "import": "Import",
+    "draft": "Lưu nháp",
+    "send_approval": "Gửi phê duyệt",
+    "approval": "Phê duyệt",
+    "reject": "Từ chối",
+    "config": "Cấu hình",
+    "completed": "Hoàn thành",
+    "send_request": "Gửi yêu cầu",
+    "destroy": "Hủy",
+    "copy": "Sao chép",
+    "update": "Cập nhật"
+  },
+  "table": {
+    "no_data": "Không tìm thấy dữ liệu nào!",
+    "paginationNumber": "Số hàng hiển thị trên trang",
+    "jumpToPage": "Nhảy đến trang",
+    "no": "STT",
+    "no_exist_page": "Trang không tồn tại."
+  },
+  "menu": {
+    "uaa": {
+      "system": "Quản lý System",
+      "service": "Quản lý Service",
+      "feature": "Quản lý Feature",
+      "api": "Quản lý API",
+      "tag": "Quản lý Tag",
+      "account": "Quản lý Account",
+      "tenant": "Quản lý Tenant",
+      "client": {
+        "external": "External Client",
+        "internal": "Internal Client"
+      },
+      "scope": {
+        "external": "External Scope",
+        "internal": "Internal Scope"
+      },
+      "database": "Quản lý Database",
+      "role": {
+        "internal": "Internal Role",
+        "tenant": "Tenant Role"
+      }
+    }
+  },
+  "validation": {
+    "password_required": "Bạn chưa nhập mật khẩu",
+    "password_min": "Mật khẩu tối thiểu 6 ký tự",
+    "password_false": "Mật khẩu không đúng",
+    "email": "Email chưa đúng định dạng",
+    "email_unique": "Email đã tồn tại",
+    "mobile_required": "Bạn chưa nhập số điện thoại",
+    "mobile": "Số điện thoại chưa đúng định dạng",
+    "required": "Đây là trường bắt buộc",
+    "username": "Tài khoản 6-15 ký tự và không được phép chứa ký tự đặc biệt",
+    "confirm": "Nhập lại mật khẩu không đúng",
+    "min": "Tối thiểu {{number}} ký tự",
+    "max": "Tối đa {{number}} ký tự",
+    "alias": "Chỉ được phép nhập ký tự chữ không dấu, số, ký tự '-' và '_' ",
+    "code": "Chỉ được phép nhập ký tự số, chữ không dấu, không có khoảng cách và các ký tự '-' '_' '.'",
+    "code_new": "Chỉ được phép nhập ký tự chữ không dấu, số, ký tự # _ / \\ | . -",
+    "code_new_2": "Mã bao gồm kí tự chữ, số và # _ / \\ | . -",
+    "password": "Mật khẩu bao gồm ít nhất 8 ký tự. Trong đó chứa ít nhất 1 ký tự viết hoa đầu tiên, 1 ký tự thường , 1 ký tự chữ số, 1 ký đặc biệt",
+    "phone": "Số điện thoại sai định dạng",
+    "not_type": "Sai định dạng",
+    "invalid": "Không hợp lệ",
+    "not_number": "Chỉ được phép nhập ký tự số",
+    "not_contract_number": "Chỉ được phép nhập ký tự chữ, số, và dấu -, /",
+    "url": "URL không đúng định dạng",
+    "confirm_password": "Nhập lại mật khẩu chưa đúng",
+    "number_min": "Không được phép nhỏ hơn {{min}}",
+    "number_max": "Không được phép lơn hơn {{max}}",
+    "cannotLessThanOrEqual": "Không được phép nhỏ hơn hoặc bằng {{min}}",
+    "cannotGreaterThanOrEqual": "Không được phép lớn hơn hoặc bằng {{max}}",
+    "more_than": "Giá trị phải lớn hơn {{more}}",
+    "name": "Tên không được chứa ký tự đặc biệt",
+    "integer": "Chỉ được phép nhập số nguyên dương"
+  },
+  "footer": {
+    "label": "Copyright 2010 - 2024. Bản quyền site thuộc về"
+  }
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Theo dõi yêu cầu cấp phát",
+    "label": {
+        "department": "Phòng ban",
+        "requestDate": "Ngày yêu cầu",
+        "desiredDate": "Ngày mong muốn cấp phát",
+        "status": "Trạng thái",
+        "note": "Ghi chú"
+    },
+    "placeholder": {
+        "department": "Chọn phòng ban"
+    },
+    "table": {
+        "requestCode": "Mã yêu cầu",
+        "requestDate": "Ngày yêu cầu",
+        "desiredDate": "Ngày mong muốn cấp phát",
+        "department": "Phòng ban",
+        "asset": "Tài sản",
+        "allocated": "Đã cấp phát",
+        "quantity": "Số lượng",
+        "status": "Trạng thái",
+        "requestedAssetDetail": "Chi tiết tài sản yêu cầu"
+    },
+    "assetTableDetail": {
+        "assetCode": "Mã Tài Sản",
+        "assetName": "Tên Tài Sản",
+        "personInCharge": "Người phụ trách",
+        "quantity": "Số lượng"
+    }
+}

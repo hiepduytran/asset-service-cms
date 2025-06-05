@@ -1,0 +1,27 @@
+{
+    "title": "Phê duyệt tiêu chuẩn tự bảo dưỡng",
+    "label": {
+       "maintenance": "Bảo dưỡng",
+       "selfMaintenance": "Tự bảo dưỡng",
+       "state": "Trạng thái",
+       "assetCode": "Mã tài sản (SKU)",
+       "assetName": "Tên tài sản",
+       "assetImage": "Ảnh tài sản",
+       "standardInfo": "Thông tin tiêu chuẩn",
+       "hygieneStandard": "Tiêu chuẩn vệ sinh"
+    },
+    "table": {
+        "sku": "Mã tài sản (SKU)",
+        "name": "Tên tài sản",
+        "state": "Trạng thái"
+    },
+    "standardTable": {
+        "product": "Bộ phận",
+        "result": "Kết quả mong muốn",
+        "method": "Phương pháp"
+    },
+    "text": {
+        "approval_level_1": "Phê duyệt cấp 1",
+        "approval_level_2": "Phê duyệt cấp 2"
+    }
+}

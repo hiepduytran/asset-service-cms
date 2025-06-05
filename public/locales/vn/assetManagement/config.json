@@ -1,0 +1,11 @@
+{
+    "title": "Cấu hình",
+    "text": {
+        "view": "Chi tiết",
+        "asset_allocation": "Cấu hình tính năng"
+    },
+    "label": {
+        "isApprove": "Cần phê duyệt yêu cầu cấp phát tài sản",
+        "internalWarehouse": "Kho tài sản mặc định"
+    }
+}

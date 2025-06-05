@@ -1,0 +1,79 @@
+{
+    "title": "Bàn giao tài sản",
+    "confirmAssetHandover": "Bạn có chắc chắn muốn bàn giao tài sản này không?",
+    "noteAfterConfirmation": "Lưu ý: Sau khi xác nhận bạn sẽ không được phép chỉnh sửa thông tin.",
+    "assetIncidentRecordInfo": "Thông tin ghi nhận sự cố tài sản",
+    "table": {
+        "title_child": "Chi tiết tài sản bàn giao",
+        "code": "Mã bàn giao",
+        "updateDate": "Ngày bàn giao",
+        "allocationChooseType": "Đối tượng được bàn giao",
+        "organization": "Tổ chức",
+        "department": "Bộ phận",
+        "employee": "Nhân viên",
+        "quantity": "Số lượng bàn giao",
+        "statusOfRequest": "Trạng thái",
+        "identifierCode": "Mã định danh",
+        "assetCode": "Mã tài sản",
+        "assetName": "Tên tài sản",
+        "recordCondition": "Ghi nhận tình trạng",
+        "handlingPlan": "Phương án xử lý",
+        "recordStatus": "Ghi nhận trạng thái"
+    },
+    "label": {
+        "note": "Ghi chú",
+        "dispenser": "Người bàn giao",
+        "handoverTarget": "Đối tượng bàn giao",
+        "handoverDate": "Ngày bàn giao",
+        "normal": "Bình thường",
+        "broken": "Hỏng",
+        "eligible": "Đủ điều kiện",
+        "notEligible": "Không đủ điều kiện",
+        "allocationDepartment": "Bộ phận cấp phát",
+        "handoverReason": "Lý do bàn giao",
+        "feature": "Tính năng",
+        "recordCode": "Mã ghi nhận",
+        "recordDate": "Ngày ghi nhận",
+        "collector": "Người ghi nhận",
+        "source": "Nguồn",
+        "recoveryCode": "Mã tham chiếu",
+        "responsiblePerson": "Người phụ trách"
+    },
+    "placeholder": {
+        "note": "Nhập ghi chú",
+        "dispenser": "Chọn người bàn giao",
+        "assetIdentity": "Chọn mã định danh",
+        "handlingPlanType": "Chọn phương án xử lý",
+        "allocationChooseType": "Chọn đối tượng bàn giao",
+        "organization": "Chọn tổ chức",
+        "department": "Chọn bộ phận cấp phát",
+        "employee": "Chọn nhân viên"
+    },
+    "table_child": {
+        "assetIdentity": "Mã định danh",
+        "code": "Mã tài sản",
+        "name": "Tên tài sản",
+        "status": "Trạng thái"
+    },
+    "text": {
+        "ORGANIZATION": "Tổ chức",
+        "DEPARTMENT": "Bộ phận",
+        "EMPLOYEE": "Nhân viên",
+        "TRANSFER": "Đã bàn giao",
+        "NOT_TRANSFER": "Chưa bàn giao",
+        "ONE_PART_TRANSFER": "Bàn giao một phần",
+        "title_dialog": "Xác nhận",
+        "msg_dialog": "Bạn có chắc chắn muốn thu hồi tài sản này không?",
+        "desc_dialog": "Lưu ý : Sau khi xác nhận bạn sẽ không được phép chỉnh sửa thông tin.",
+        "form_signature": "Phiếu có xác nhận chữ ký",
+        "handover_asset_add": "Thêm tài sản bàn giao",
+        "handover_asset_info": "Thông tin tài sản bàn giao",
+        "status": "Trạng thái",
+        "errorRecordForm": "Phiếu ghi nhận lỗi",
+        "object": "Đối tượng"
+    },
+    "btn": {
+        "handover": "Bàn giao",
+        "handover_form": "Bàn giao và tạo phiếu ghi nhận sự cố"
+    }
+}

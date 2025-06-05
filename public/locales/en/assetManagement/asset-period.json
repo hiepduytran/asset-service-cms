@@ -1,0 +1,26 @@
+{
+    "title": "Khai báo chu kì",
+    "label": {
+        "assetName": "Tên tài sản",
+        "productCode": "Mã tài sản (SKU)",
+        "period": "Chu kì",
+        "frequency": "Tần suất",
+        "accessory": "Phụ tùng"
+    },
+    "placeholder": {
+        "asset": "Chọn tài sản"
+    },
+    "table": {
+        "asset": "Tài sản",
+        "productCode": "Mã tài sản (SKU)",
+        "period": "Chu kì",
+        "frequency": "Tần suất",
+        "accessory": "Phụ tùng"
+    },
+    "accessoryPeriodDetail": {
+        "accessoryCode": "Mã phụ tùng",
+        "accessory": "Phụ tùng",
+        "period": "Chu kì",
+        "frequency": "Tần suất"
+    }
+}

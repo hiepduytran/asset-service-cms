@@ -1,0 +1,41 @@
+{
+    "title": {
+        "maintenance": "Bảo dưỡng",
+        "config": "Cấu hình",
+        "asset_period": "Khai báo chu kì"
+    },
+    "label": {
+        "assetName": "Tên tài sản",
+        "productCode": "Mã tài sản (SKU)",
+        "period": "Chu kì",
+        "frequency": "Tần suất",
+        "accessory": "Phụ tùng"
+    },
+    "placeholder": {
+        "asset": "Chọn tài sản"
+    },
+    "table": {
+        "asset": "Tài sản",
+        "productCode": "Mã tài sản (SKU)",
+        "period": "Chu kì",
+        "frequency": "Tần suất",
+        "accessory": "Phụ tùng"
+    },
+    "accessoryPeriodDetail": {
+        "accessoryCode": "Mã phụ tùng",
+        "accessory": "Phụ tùng",
+        "period": "Chu kì",
+        "frequency": "Tần suất"
+    },
+    "text": {
+        "no_data": "Không tìm thấy dữ liệu nào!",
+        "year": "Năm",
+        "month": "Tháng",
+        "hour": "Giờ",
+        "detail_accessory": "Chi tiết chu kì phụ tùng",
+        "view": "Chi tiết",
+        "edit": "Chỉnh sửa",
+        "more_than_0": "cần lớn hơn 0",
+        "asset_period": "Chu kì phụ tùng"
+    }
+}

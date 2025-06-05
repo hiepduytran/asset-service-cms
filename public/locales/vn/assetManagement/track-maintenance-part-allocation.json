@@ -1,0 +1,34 @@
+{
+    "title": {
+        "maintenance": "Bảo dưỡng",
+        "plan_maintenance": "Bảo dưỡng theo kế hoạch",
+        "allocation_follow": "Theo dõi cấp phát công cụ bảo dưỡng"
+    },
+    "label": {
+        "status":"Trạng thái"
+    },
+    "placeholder": {
+
+    },
+    "table": {
+        "code": "Mã kế hoạch",
+        "requestDate": "Ngày gửi",
+        "maintenanceAccessory": "Công cụ bảo dưỡng",
+        "status":"Trạng thái"
+    }, 
+    "table_child": {
+        "product": "Công cụ bảo dưỡng",
+        "uom": "Đơn vị",
+        "request": "Yêu cầu thêm",
+        "allocated":"Đã cấp"
+    },
+    "text": {
+        "ALL": "Tất cả",
+        "ALLOCATED": "Đã cấp phát",
+        "NOT_ALLOCATION": "Chưa cấp phát",
+        "REQUEST_SEND": "Gửi yêu cầu",
+        "detail_maintenance": "Chi tiết yêu cầu công cụ bảo dưỡng"
+    }
+    
+
+}

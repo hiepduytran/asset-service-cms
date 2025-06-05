@@ -1,0 +1,8 @@
+{
+    "titleList" : "Usage Status",
+    "table" : {
+        "code" : "Code",
+        "name" : "Name",
+        "isActive" : "Active"
+    }
+}

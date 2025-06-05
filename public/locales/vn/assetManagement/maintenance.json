@@ -1,0 +1,222 @@
+{
+    "title": "Bảo dưỡng",
+    "add": "Thêm mới",
+    "edit":"Chỉnh sửa",
+    "view": "Chi tiết",
+    "search": "Tìm kiếm",
+    "search_option": "Tìm kiếm theo mã và tên",
+    "state": "Trạng thái",
+    "next_step_2": "Chuyển tiếp bước 2",
+    "table": {
+        "sku" : "Mã tài sản (SKU)",
+        "name": "Tên phiếu",
+        "nameProduct": "Tên tài sản",
+        "state": "Trạng thái",
+        "product": "Phụ tùng",
+        "standardMethods": "Phương pháp thực hiện",
+        "result": "Kết quả mong muốn",
+        "groupStaff": "Người thực hiện",
+        "auditGroupStaffFirst": "Người kiểm tra 1",
+        "auditGroupStaffSecond": "Người kiểm tra 2",
+        "code": "Mã phiếu",
+        "identity": "Mã định danh",
+        "startDate": "Ngày bắt đầu",
+        "endDate": "Ngày kết thúc",
+        "shifts": "Ca áp dụng",
+        "frequency": "Tần suất",
+        "note": "Ghi chú",
+        "action": "Hành động"
+    },
+    "self_maintenance": {
+        "title": "Tự bảo dưỡng",
+        "standard_declare": {
+            "title": "Khai báo tiêu chuẩn",
+            "state": "Chọn trạng thái",
+            "info_standard":"Thông tin tiêu chuẩn",
+            "image": "Ảnh tài sản",
+            "add_maintenance": "Thêm phụ tùng",
+            "product": {
+                "placeholder": "Chọn phụ tùng"            
+            },
+            "information_standard": "Thông tin tiêu chuẩn",
+            "standardMethods": {
+                "placeholder": "Chọn phương pháp"            
+            },
+            "result": {
+                "placeholder": "Nhập kết quả mong muốn"            
+            },
+            "productSKU": {
+                "label": "Mã tài sản (SKU)",
+                "placeholder": "Chọn mã tài sản (SKU)"            
+            },
+            "productName": {
+                "placeholder": "Nhập tên tài sản"            
+            }
+            
+        },
+        "standard_approval": {
+            "title": "Phê duyệt tiêu chuẩn",
+            "approval_level_1": "Phê duyệt cấp 1",
+            "approval_level_2": "Phê duyệt cấp 2"
+            
+        },
+        "standard_follow": {
+            "title": "Theo dõi danh sách tiêu chuẩn",
+            "label": {
+                "status": "Trạng thái"
+            },
+            "placeholder": {
+                "status": "Chọn trạng thái"
+            }
+        },
+        "self_maintenance_form": {
+            "title": "Lập phiếu tự bảo dưỡng",
+            "regex_number": "Trường này phải là số nguyên dương",
+            "applicable_standard": "Các tiêu chuẩn áp dụng",
+            "info_asset": "Thông tin tài sản",
+            "detail_step_1": "Lập phiếu kiểm tra tự bảo dưỡng",
+            "detail_step_2": "Chi tiết phụ tùng áp dụng tiêu chuẩn",
+
+            "step_1": "Bước 1: Lập phiếu kiểm tra tự bảo dưỡng",
+            "step_2": "Bước 2: Chi tiết phụ tùng áp dụng tiêu chuẩn",
+            "groupStaff": {
+                "placeholder": "Chọn người thực hiện"            
+            },
+            "auditGroupStaffFirst": {
+                "placeholder": "Chọn người kiểm tra 1"            
+            },
+            "auditGroupStaffSecond": {
+                "placeholder": "Chọn người kiểm tra 2"            
+            },
+            "shifts": {
+                "placeholder": "Chọn ca áp dụng"            
+            },
+            "frequency": {
+                "placeholder": "Nhập tần suất",
+                "text":"lần/ca"          
+            },
+            "note": {
+                "placeholder": "Nhập ghi chú"         
+            }
+        },
+        "self_maintenance_approval": {
+            "title": "Phê duyệt phiếu tự bảo dưỡng"
+            
+        },
+        "self_maintenance_follow": {
+            "title": "Theo dõi danh sách phiếu tự bảo dưỡng",
+            "generateSelfMaintenanceTicket": "Sinh phiếu tự bảo dưỡng"
+        },
+        "self_maintenance_perform": {
+            "title": "Thực hiện tự BD",
+            "code" : "Mã tài sản (SKU)",
+            "name": "Tên tài sản",
+            "status": "Trạng thái",
+            "applicable": "Thứ áp dụng",
+            "reasonError": {
+                "label": "Mô tả",
+                "placeholder":"Nhập mô tả"
+            },
+            "errorType": {
+                 "label": "Đánh giá tình trạng",
+                "placeholder":"Chọn đánh giá tình trạng"
+            },
+            "nameCard": {
+                "label":"Tên phiếu",
+                "placeholder":"Nhập tên phiếu"
+            } ,
+            "department": {
+                 "label": "Phòng ban",
+                "placeholder":"Nhập phòng ban"
+            },
+            "dayOfWeek": {
+                 "label": "Thứ",
+                "placeholder":"Nhập thứ"
+            },
+            "currentShift": {
+                 "label": "Ca",
+                "placeholder":"Nhập ca"
+            },
+            "maintenanceCard": {
+                 "label": "Mã phiếu",
+                "placeholder":"Nhập mã phiếu"
+            },
+            "identity": {
+                 "label": "Mã định danh",
+                "placeholder":"Nhập mã định danh"
+            },
+            "product": {
+                "label": "Tên tài sản",
+                "placeholder":"Nhập tên tài sản"
+            },
+            "label": {
+                "status":"Trạng thái",
+                "date": "Ngày"
+            },
+            "placeholder": {
+                "status":"Chọn trạng thái"
+            },
+            "text": {
+                "accessory": "Chi tiết máy",
+                "staff": "Người thực hiện",
+                "normal": "Hoạt động ổn định",
+                "minor": "Lỗi không nghiêm trọng",
+                "dangerous": "Lỗi nghiêm trọng"
+            },
+            "btn": {
+                "approve_error": "Ghi nhận lỗi",
+                "approve": "Ghi nhận"
+            }
+        },
+        "self_maintenance_check": {
+            "title": "Kiểm tra tự BD",
+            "code" : "Mã tài sản (SKU)",
+            "name": "Tên tài sản",
+            "status": "Trạng thái",
+            "finalReasonError": {
+                "label": "Mô tả",
+                "placeholder":"Nhập mô tả"
+            },
+            "finalErrorType":{
+                "label": "Đánh giá tình trạng",
+                "placeholder":"Chọn đánh giá tình trạng"
+            },
+            "label": {
+                "status": "Trạng thái"
+
+            },
+            "placeholder": {
+                "status": "Chọn trạng thái"
+            },
+            "text": {
+                "accessory": "Chi tiết máy",
+                "staff": "Người thực hiện",
+                "evaluate": "Đánh giá",
+                "check_maintenance_dialog": "ĐÁNH GIÁ KIỂM TRA TỰ BẢO DƯỠNG",
+                "detail_error": "MÔ TẢ LỖI",
+                "detail_review": "Chi tiết đánh giá lại",
+                "choose": "Chọn",
+                "NORMAL": "Hoạt động ổn định",
+                "MINOR": "Có lỗi nhỏ",
+                "DANGEROUS": "Có lỗi nghiêm trọng"
+
+
+            },
+            "btn": {
+                "approve_error": "Ghi nhận lỗi",
+                "approve": "Ghi nhận",
+                "review": "Đánh giá lại",
+                "contingency_plan": "Lập kế hoạch phát sinh tuần"
+            }
+
+        },
+        "self_maintenance_history": {
+            "title": "Theo dõi lịch sử tự BD",
+            "code" : "Mã tài sản (SKU)",
+            "name": "Tên tài sản",
+            "status": "Trạng thái"
+        }
+        
+
+    }
+}

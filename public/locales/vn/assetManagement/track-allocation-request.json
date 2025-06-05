@@ -1,0 +1,81 @@
+{
+    "title": "Theo dõi yêu cầu cấp phát",
+    "detailTitle": "Chi tiết tài sản yêu cầu",
+    "label": {
+        "requestDate": "Ngày yêu cầu",
+        "desiredDate": "Ngày mong muốn cấp phát",
+        "status": "Trạng thái",
+        "note": "Ghi chú",
+        "allocation_object": "Đối tượng cấp phát",
+        "planType": "Loại kế hoạch dự trù",
+        "plan":"Kế hoạch dự trù",
+        "organization":"Tổ chức",
+        "department":"Bộ phận cấp phát",
+        "employee":"Nhân viên",
+        "code": "Mã phiếu xuất",
+        "doneDate": "Ngày xuất kho",
+        "fullName": "Người xuất kho",
+        "name": "Xuất từ kho",
+        "sourceDocument": "Nguồn đơn",
+        "quantity_allocation": "Số lượng cấp phát"
+    },
+    "placeholder": {
+        "plan":"Chọn kế hoạch dự trù", 
+        "organization":"Chọn tổ chức",
+        "department":"Chọn bộ phận cấp phát",
+        "employee":"Chọn nhân viên"
+    },
+    "table": {
+        "requestCode": "Mã yêu cầu",
+        "requestDate": "Ngày yêu cầu",
+        "updateDate": "Ngày mong muốn cấp phát",
+        "asset": "Tài sản",
+        "allocated": "Đã cấp phát",
+        "quantity": "Số lượng yêu cầu",
+        "status": "Trạng thái",
+        "requestedAssetDetail": "Chi tiết tài sản yêu cầu",
+        "code": "Mã tài sản",
+        "name": "Tên tài sản",
+        "quantity_asset": "Số lượng tài sản",
+        "quantity_request": "Số lượng yêu cầu",
+        "allocationChooseType": "Đối tượng cấp phát",
+        "organization":"Tổ chức",
+        "department":"Bộ phận",
+        "employee":"Nhân viên",
+        "code_identity": "Mã định danh",
+        "lots": "Lô",
+        "imageUrl": "Upload ảnh ghi nhận"
+
+    },
+    "assetTableDetail": {
+        "assetCode": "Mã Tài Sản",
+        "assetName": "Tên Tài Sản",
+        "quantity": "Số lượng yêu cầu",
+        "requestQuantity": "Số lượng yêu cầu",
+        "doneQty": "Số lượng xuất thực tế"
+    },
+    "text": {
+        "view": "Chi tiết",
+        "info_register": "Thông tin tài sản đăng ký",
+        "NOT_ALLOCATION": "Chưa cấp phát",
+        "ONE_PART_ALLOCATION": "Cấp phát một phần",
+        "ALLOCATED": "Đã cấp phát",
+        "ALL": "Tất cả",
+        "ORGANIZATION": "Tổ chức",
+        "DEPARTMENT": "Bộ phận",
+        "EMPLOYEE": "Nhân viên",
+        "INCIDENT": "Phát sinh",
+        "PLANED": "Kế hoạch",
+        "allocation_for": "Cấp phát cho",
+        "status": "Trạng thái",
+        "delivery": "Phiếu xuất kho",
+        "info_delivery": "Thông tin tài sản xuất kho",
+        "status_delivery": "Trạng thái phiếu xuất",
+        "list_allocation": "DANH SÁCH TÀI SẢN CẤP PHÁT",
+        "detail_recovery": "Chi tiết tài sản thu hồi",
+        "detail_delivery": "Chi tiết phiếu xuất"
+
+
+
+    }
+}

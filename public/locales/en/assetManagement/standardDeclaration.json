@@ -1,0 +1,11 @@
+{
+    "titleList" : "Standard Declaration",
+    "table" : {
+        "codeGroup" : "Mã nhóm",
+        "nameGroup" : "Tên nhóm",
+        "createdAt" : "Ngày tạo",
+        "createdBy" : "Người tạo",
+        "status": "Trạng thái",
+        "isActive" : "Active"
+    }
+}

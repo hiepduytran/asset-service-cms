@@ -1,0 +1,35 @@
+{
+    "title": {
+        "maintenance": "Bảo dưỡng",
+        "config": "Cấu hình",
+        "standard_declaration": "Khai báo tiêu chuẩn"
+    },
+    "label": {
+        "code": "Mã nhóm",
+        "name": "Tên nhóm",
+        "createdDate": "Ngày tạo"
+
+
+    },
+    "placeholder": {
+        "status": "Chọn trạng thái", 
+        "code": "Nhập mã nhóm",
+        "name": "Nhập tên nhóm",
+        "createdDate": "Chọn ngày tạo"
+
+    },
+    "titleList" : "Standard Declaration",
+    "table" : {
+        "codeGroup" : "Mã nhóm",
+        "nameGroup" : "Tên nhóm",
+        "createdAt" : "Ngày tạo",
+        "createdBy" : "Người tạo",
+        "status": "Trạng thái",
+        "isActive" : "Active"
+    },
+    "text": {
+        "view": "Chi tiết",
+        "edit": "Chỉnh sửa",
+        "add": "Thêm mới"
+    }
+}

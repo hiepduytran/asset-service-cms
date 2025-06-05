@@ -1,0 +1,26 @@
+.ribbon {
+    position: absolute;
+    width: 250px; 
+    top: 0;
+    right: 0;
+    color: white;
+    font-weight: 500;
+    font-size: 14px;
+    padding: 10px 0 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+  }
+  
+.ribbon::before {
+    content: '';
+    position: absolute;
+    left: 0; 
+    top: 0;
+    width: 0;
+    height: 0;
+    border-top: 20px solid transparent;
+    border-bottom: 20px solid transparent;
+    border-left: 30px solid #fff; 
+}

@@ -1,0 +1,107 @@
+{
+    "title": "Yêu Cầu Cấp Phát",
+    "label": {
+        "requestDate": "Ngày yêu cầu",
+        "desiredDate": "Ngày mong muốn cấp phát",
+        "status": "Trạng thái",
+        "note": "Ghi chú",
+        "allocationChooseType": "Đối tượng cấp phát",
+        "planType": "Loại kế hoạch dự trù",
+        "plan":"Kế hoạch dự trù",
+        "organization":"Tổ chức",
+        "department":"Bộ phận cấp phát",
+        "code":"Mã ghi nhận",
+        "recordDate":"Ngày ghi nhận",
+        "collector":"Người ghi nhận",
+        "source":"Nguồn",
+        "recoverCode":"Mã tham chiếu",
+        "collector_second":"Người phụ trách",
+        "employee":"Nhân viên"
+    
+    },
+    "placeholder": {
+        "asset":"Chọn mã tài sản",
+        "requestQuantity": "Nhập số lượng yêu cầu",
+        "staff": "Chọn nhân viên phụ trách",
+        "plan":"Chọn kế hoạch dự trù", 
+        "organization":"Chọn tổ chức",
+        "department":"Chọn bộ phận cấp phát",
+        "employee":"Chọn nhân viên",
+        "code":"Nhập mã ghi nhận",
+        "recordDate":"Chọn ngày ghi nhận",
+        "collector":"Chọn người ghi nhận",
+        "source":"Nhâp nguồn",
+        "recoverCode":"Nhập mã tham chiếu",
+        "collector_second":"Chọn người phụ trách"
+
+
+    },
+    "table": {
+        "requestCode": "Mã yêu cầu",
+        "requestDate": "Ngày yêu cầu",
+        "updateDate": "Ngày mong muốn cấp phát",
+        "asset": "Tài sản",
+        "quantity": "Số lượng",
+        "status": "Trạng thái",
+        "requestedAssetDetail": "Chi tiết tài sản yêu cầu",
+        "code": "Mã tài sản",
+        "name": "Tên tài sản",
+        "quantity_asset": "Số lượng tài sản",
+        "quantity_request": "Số lượng yêu cầu",
+        "staff": "Nhân viên phụ trách",
+        "allocationChooseType": "Đối tượng cấp phát",
+        "organization":"Tổ chức",
+        "department":"Bộ phận",
+        "employee":"Nhân viên"
+
+
+    },
+    "assetTableDetail": {
+        "assetCode": "Mã tài sản",
+        "assetName": "Tên tài sản",
+        "personInCharge": "Người phụ trách",
+        "assetQuantity": "Số lượng tài sản",
+        "requestQuantity": "Số lượng yêu cầu",
+        "staff": "Nhân viên phụ trách",
+        "quantity": "Số lượng"
+    },
+    "text": {
+        "delete_dialog": "Bạn có chắc chắn muốn xoá bản ghi này hay không?",
+        "PENDING":"Chưa duyệt",
+        "APPROVED":"Đã duyệt",
+        "TERMINATE": "Hủy",
+        "cancel":"Hủy",
+        "REJECTED":"Bị từ chối",
+        "DRAFT": "Lưu nháp",
+        "ARCHIVED": "Lưu trữ",
+        "PUBLISH": "Publish",
+        "no_search":"Không tìm thấy dữ liệu nào!",
+        "pending_approval": "Chờ duyệt",
+        "saved": "Đã lưu",
+        "draft": "Bản nháp",
+        "publish":"Publish",
+        "detail_maintenance": "Chi tiết tài sản yêu cầu",
+        "view": "Chi tiết",
+        "error_code": "Mã yêu cầu không hợp lệ",
+        "info_register":"Thông tin tài sản đăng ký",
+        "status":"Trạng thái",
+        "add_asset": "Thêm tài sản",
+        "not_issued":"Chưa cấp phát",
+        "issued": "Đã cấp phát",
+        "close_issue":"Đóng cấp phát",
+        "not_data": "Không tìm thấy dữ liệu nào!",
+        "ORGANIZATION": "Tổ chức",
+        "DEPARTMENT": "Bộ phận",
+        "EMPLOYEE": "Nhân viên",
+        "ALL":"Tất cả",
+        "INCIDENT": "Phát sinh",
+        "PLANED": "Kế hoạch",
+        "allocation_for": "Cấp phát cho",
+        "incident_log": "Phiếu ghi nhận lỗi",
+        "object": "Đối tượng",
+        "info_error_asset": "Thông tin ghi nhận sự cố tài sản"
+    },
+    "btn": {
+        "request_allocation": "Yêu cầu cấp phát"
+    }
+}

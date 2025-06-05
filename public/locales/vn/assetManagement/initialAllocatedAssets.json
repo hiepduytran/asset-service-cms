@@ -1,0 +1,51 @@
+{
+    "title": "Tài sản đầu kỳ đã cấp phát",
+    "allocatedTo": "Cấp phát cho",
+    "allocatedAssetInformation": "Thông tin tài sản đã cấp phát",
+    "addAssets": "Thêm tài sản",
+    "quicklyAddAssets": "Thêm nhanh tài sản",
+    "addIdentifier": "Thêm mã định danh",
+    "declareTheIdentifier": "KHAI BÁO MÃ ĐỊNH DANH",
+    "automatic_code_generation":"Sinh tự động serial/mã định danh",
+    "issuedAssetDetails": "Chi tiết tài sản cấp phát",
+    "table": {
+        "assetCode": "Mã tài sản",
+        "assetName": "Tên tài sản",
+        "allocateQuantity": "Số lượng cấp phát",
+        "identifierCode": "Mã định danh",
+        "origin": "Xuất xứ",
+        "manufacturer": "Nhà sản xuất",
+        "supplier": "Nhà cung cấp",
+        "dateOfPurchase": "Ngày mua",
+        "dateOfUse": "Ngày sử dụng",
+        "initialAllocationCode": "Mã cấp phát đầu kỳ",
+        "allocationObject": "Đối tượng CP",
+        "quantity": "Số lượng",
+        "object": "Đối tượng",
+        "serialAndIdentifierCode": "Serial/Mã định danh",
+        "lot": "Lô",
+        "beginningPeriodIssuanceQuantity": "Số lượng cấp phát đầu kỳ"
+    },
+    "label": {
+        "code": "Mã cấp phát",
+        "updateDate": "Ngày cập nhật",
+        "allocateDate": "Ngày cấp phát",
+        "organization": "Tổ chức",
+        "part": "Bộ phận",
+        "staff": "Nhân viên",
+        "allocationDepartment": "Bộ phận cấp phát",
+        "note": "Ghi chú"
+    },
+    "placeholder": {
+        "assetCode": "Chọn mã tài sản",
+        "allocateQuantity": "Nhập số lượng cấp phát",
+        "identifierCode": "Nhập mã định danh",
+        "origin": "Chọn xuất xứ",
+        "manufacturer": "Chọn nhà sản xuất",
+        "supplier": "Chọn nhà cung cấp",
+        "dateOfPurchase": "Chọn ngày mua",
+        "dateOfUse": "Chọn ngày sử dụng",
+        "serialAndIdentifierCode": "Nhập serial/mã định danh",
+        "lot": "Nhập lô"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "title": {
+        "maintenance": "Bảo dưỡng",
+        "config": "Cấu hình",
+        "policy_role": "Chính sách và vai trò"
+    },
+    "label": {
+        "policy": "Chính sách mặc định",
+        "role": "Vai trò",
+        "staff": "Nhân viên"
+    },
+    "placeholder": {
+        "policy": "Chọn chính sách mặc định",
+        "role": "Chọn vai trò", 
+        "staff": "Chọn nhân viên"
+    },
+    "text": {
+        "supplier_recommend": "THEO ĐỀ XUẤT NHÀ CUNG CẤP",
+        "policy_work": "Chính sách làm việc",
+        "config_role": "Cấu hình vai trò"
+    },
+    "btn": {
+        "plan": "Lập kế hoạch"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "title": {
+        "maintenance": "Bảo dưỡng",
+        "config": "Cấu hình",
+        "first_period": "Khai báo đầu kì"
+    },
+    "label": {
+        "assetName": "Tên tài sản",
+        "productCode": "Mã định danh (DIC)",
+        "lastMaintenanceDate": "Ngày bảo trì cuối",
+        "accessory": "Phụ tùng"
+    },
+    "placeholder": {
+        "asset": "Chọn tài sản"
+    },
+    "table": {
+        "asset": "Tài sản",
+        "productCode": "Mã định danh (DIC)",
+        "accessory": "Phụ tùng",
+        "lastMaintenanceDate": "Ngày bảo trì cuối"
+    },
+    "accessoryPeriodDetail": {
+        "accessoryCode": "Mã phụ tùng",
+        "accessory": "Phụ tùng",
+        "lastMaintenanceDate": "Ngày bảo trì cuối"
+    },
+    "text": {
+        "detail_accessory": "Chi tiết chu kì phụ tùng",
+        "no_data": "Không tìm thấy dữ liệu nào!"
+    }
+}

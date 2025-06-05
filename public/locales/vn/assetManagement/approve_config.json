@@ -1,0 +1,22 @@
+{
+    "title": {
+        "maintenance": "Bảo dưỡng",
+        "config": "Cấu hình",
+        "approve_config": "Phê duyệt"
+    },
+    "label": {
+        "approve_1": "Phê duyệt cấp 1",
+        "approve_2": "Phê duyệt cấp 2",
+        "type_approve": "Loại người phê duyệt"
+
+    },
+    "placeholder": {
+        "type_approve": "Chọn người phê duyệt"
+ 
+    },
+    "text": {
+        "detail_accessory": "Chi tiết chu kì phụ tùng",
+        "no_data": "Không tìm thấy dữ liệu nào!"
+       
+    }
+}

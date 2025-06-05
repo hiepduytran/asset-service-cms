@@ -1,0 +1,77 @@
+{
+    "title": "Phê duyệt yêu cầu cấp phát",
+    "label": {
+        "search": "Tìm kiếm",
+        "registerDate": "Ngày đăng ký",
+        "requestDate": "Ngày yêu cầu",
+        "desiredDate": "Ngày mong muốn cấp phát",
+        "status": "Trạng thái",
+        "note": "Ghi chú",
+        "allocationChooseType": "Đối tượng cấp phát",
+        "planType": "Loại kế hoạch dự trù",
+        "plan": "Kế hoạch dự trù",
+        "organization":"Tổ chức",
+        "department":"Bộ phận cấp phát",
+        "employee":"Nhân viên"
+
+    },
+    "placeholder": {
+        "asset": "Chọn tài sản",
+        "quantity_request": "Nhập số lượng yêu cầu",
+        "staff": "Chọn nhân viên phụ trách",
+        "organization":"Chọn tổ chức",
+        "department":"Chọn bộ phận cấp phát",
+        "employee":"Chọn nhân viên"
+    },
+    "table": {
+        "requestCode": "Mã yêu cầu",
+        "requestDate": "Ngày yêu cầu",
+        "updateDate": "Ngày mong muốn cấp phát",
+        "asset": "Tài sản",
+        "allocated": "Đã cấp phát",
+        "quantity": "Số lượng",
+        "status": "Trạng thái",
+        "requestedAssetDetail": "Chi tiết tài sản yêu cầu",
+        "allocationChooseType": "Đối tượng cấp phát",
+        "organization":"Tổ chức",
+        "department":"Bộ phận",
+        "employee":"Nhân viên"
+    },
+    "assetTableDetail": {
+        "assetCode": "Mã tài sản",
+        "assetName": "Tên tài sản",
+        "personInCharge": "Người phụ trách",
+        "quantity_asset" :"Số lượng tài sản",
+        "quantity_request" :"Số lượng yêu cầu",
+        "staff": "Nhân viên phụ trách",
+        "quantity": "Số lượng"
+    },
+    "text": {
+        "draft": "Bản nháp",
+        "pending_approval":"Chờ duyệt",
+        "approval": "Đã duyệt",
+        "archived":"Đã lưu trữ",
+        "reject": "Từ chối",
+        "announcement":"Công bố",
+        "cancel": "Hủy",
+        "view": "Chi tiết",
+        "info_register":"Thông tin tài sản đăng ký",
+        "ORGANIZATION": "Tổ chức",
+        "DEPARTMENT": "Bộ phận",
+        "EMPLOYEE": "Nhân viên",
+        "ALL":"Tất cả",
+        "INCIDENT": "Phát sinh",
+        "PLANED": "Kế hoạch",
+        "allocation_for": "Cấp phát cho",
+        "status":"Trạng thái",
+        "title_dialog": "xác nhận",
+        "message_dialog": "Bạn có chắc chắn muốn thu hồi tài sản này không?",
+        "desc_dialog": "Lưu ý : Sau khi xác nhận bạn sẽ không được phép chỉnh sửa thông tin."
+
+
+    },
+    "button": {
+        "reject": "Từ chối",
+        "approval": "Phê duyệt"
+    }
+}

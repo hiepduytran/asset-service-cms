@@ -1,0 +1,29 @@
+{
+    "title": {
+        "maintenance": "Bảo dưỡng",
+        "forecasting": "Dự báo",
+        "demand_forecasting": "Dự báo nhu cầu bảo dưỡng"
+    },
+    "label": {
+        "startDate": "Ngày bắt đầu",
+        "endDate": "Ngày kết thúc"
+    },
+    "table": {
+        "accessoryCode": "Mã công cụ bảo dưỡng",
+        "maintenanceAccessory": "Công cụ bảo dưỡng",
+        "type": "Loại",
+        "availableQuantity": "Sẵn có",
+        "demandQuantity": "Nhu cầu",
+        "needQuantity": "Cần nhập" 
+        
+    },
+    "maintenanceAccessoryDetailTable": {
+        "dic": "Mã định danh",
+        "asset": "Tài sản",
+        "quantity": "Số lượng",
+        "maintenanceDate": "Ngày bảo dưỡng"
+    },"text": {
+        "no_data": "Không tìm thấy dữ liệu nào!",
+        "detail_accessory":"Chi tiết nhu cầu công cụ bảo dưỡng"
+    }
+}

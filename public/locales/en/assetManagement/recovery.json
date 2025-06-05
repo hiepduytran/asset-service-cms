@@ -1,0 +1,38 @@
+{
+    "title": "Thu hồi tài sản",
+    "detailTitle": "Chi tiết tài sản cấp phát",
+    "info": "Thông tin tài sản thu hồi",
+    "label": {
+        "desiredAllocationDate": "Ngày thu hồi",
+        "dispenser": "Người thu hồi",
+        "department": "Thu hồi từ phòng ban",
+        "productWorkshop": "Phân xưởng sản xuất",
+        "productArea": "Khu vực sản xuất",
+        "stage": "Công đoạn",
+        "reason": "Lý do thu hồi"
+    },
+    "placeholder": {
+        "assetCode": "Chọn mã tài sản",
+        "manager": "Chọn người phụ trách",
+        "identifierCode": "Chọn mã định danh"
+    },
+    "table": {
+        "allocationCode": "Mã cấp phát",
+        "recoveryCode": "Mã thu hồi",
+        "source": "Nguồn",
+        "department": "Phòng ban",
+        "quantity": "Đã cấp phát",
+        "statusOfRequest": "Trạng thái",
+        "assetCode": "Mã tài sản",
+        "assetName": "Tên tài sản",
+        "manager": "Người phụ trách",
+        "requestQuantity": "Số lượng yêu cầu",
+        "allocationQuantity": "Số lượng cấp phát",
+        "recoveryQuantity": "Số lượng thu hồi",
+        "assetQuantity": "Số lượng tài sản",
+        "identifierCode": "Mã định danh"
+    },
+    "button": {
+        "recover": "Thu hồi"
+    }
+}

@@ -1,0 +1,26 @@
+import { BasicLayout } from '@/components/layouts/WrapLayout/BasicLayout'
+import { Meta } from '@/components/meta'
+import AllocatedAssetList from '@/components/templates/Asset/AllocatedAssetList'
+import { HttpResponse } from '@/lib/api'
+import { NextPageWithLayout } from '@/lib/next/types'
+import { TRANSLATE } from '@/routes'
+import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
+
+type Props = HttpResponse<null>
+const Page: NextPageWithLayout<Props> = () => <AllocatedAssetList />
+
+Page.getLayout = BasicLayout
+Page.getMeta = Meta(() => ({ title: 'Allocated Asset List' }))
+
+export const getServerSideProps = async ({ locale = 'vn' }) => {
+  return {
+    props: {
+      ...(await serverSideTranslations(locale, [
+        'common',
+        TRANSLATE.TRACK_ASSET_LIST,
+      ])),
+    },
+  }
+}
+
+export default Page

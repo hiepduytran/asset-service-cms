@@ -1,0 +1,33 @@
+{
+    "title": {
+        "maintenance": "Bảo dưỡng",
+        "plan_maintenance": "Bảo dưỡng theo kế hoạch",
+        "plan_follow": "Theo dõi danh sách kế hoạch bảo dưỡng"
+    },
+    "label": {
+        "status": "Trạng thái"
+    },
+    "placeholder": {
+
+    },
+    "table": {
+        "code" : "Mã kế hoạch",
+        "name" : "Tên kế hoạch",
+        "planType" : "Loại kế hoạch",
+        "scheduledMaintenanceDate" : "Ngày bảo trì dự kiến",
+        "status" : "Trạng thái",
+        "name_accessory": "Tên công cụ bảo dưỡng",
+        "demandQty": "Số lượng đề xuất"
+    },
+    "convert": {
+
+    },
+    "text": {
+        "request": "YÊU CẦU CÔNG CỤ BẢO DƯỠNG",
+        "request_lower": "Yêu cầu công cụ bảo dưỡng",
+        "code_request": "Mã yêu cầu",
+        "ALL": "Tất cả",
+        "PENDING": "Chưa thực hiện",
+        "FINISH": "Đã thực hiện"
+    }
+}

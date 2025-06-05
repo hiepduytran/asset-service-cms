@@ -1,0 +1,19 @@
+{
+    "title" : "Tình trạng sử dụng",
+    "table" : {
+        "code" : "Mã tình trạng",
+        "name" : "Tên tình trạng",
+        "isActive" : "Trạng thái"
+    },
+    "label": {
+        "code": "Mã tình trạng",
+        "name": "Tên tình trạng"
+
+    }, 
+    "placeholder": {
+        "code": "Nhập mã tình trạng",
+        "name": "Nhập tên tình trạng"
+
+
+    }
+}
